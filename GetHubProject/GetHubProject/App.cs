@@ -18,7 +18,9 @@ namespace GetHubProject
 
                 {
                     Text = "Welcome to Xamarin.Forms",
-                    TextColor = Color.Red
+                    TextColor = Color.Red,
+                    FontAttributes = FontAttributes.Bold
+
                 },
                 BackgroundColor = Color.Purple
 
